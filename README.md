@@ -5,14 +5,11 @@ Practice of facial recognition by tensorflow
 ![img](https://miro.medium.com/max/868/1*6xp-IY-M8lEEEN0UuUBq0w.jpeg)
 
 # Reference
-[kaggle-link](https://www.kaggle.com/gauravsharma99/facial-emotion-recognition)<br>
+[kaggle::code](https://www.kaggle.com/gauravsharma99/facial-emotion-recognition)<br>
 
 # Trouble-Shooting
-* [how to run ipynb files in vscode?][https://towardsdatascience.com/jupyter-notebook-in-visual-studio-code-3fc21a36fe43]
-<br>
-* [how to link your .ipynb on PC using your own google colab?[https://stackoverflow.com/questions/59508225/is-it-possible-to-connect-vscode-on-a-local-machine-with-google-colab-the-fre]
-<br>
-*
+* [how to run ipynb files in vscode?](https://towardsdatascience.com/jupyter-notebook-in-visual-studio-code-3fc21a36fe43)<br>
+* [how to link your ipynb on PC using your own google colab?](https://stackoverflow.com/questions/59508225/is-it-possible-to-connect-vscode-on-a-local-machine-with-google-colab-the-fre)
 
 # network-list
 * AlexNet
