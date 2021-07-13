@@ -20,7 +20,7 @@ Practice of facial recognition by tensorflow
 * GoogLeNet / InceptionV1
 * Resnet50
 
-# DCNN(rewrite)
+# DCNN
 - conv2d_1
 - batchnorm_1
 - conv2d_2
