@@ -1,5 +1,5 @@
 # FacialRecognition
-  This is Practice of facial recognition by tensorflow
+  This is practice of facial recognition by tensorflow
   
   I try to do transfer learning to make a small step for this repos. 
   
@@ -30,13 +30,14 @@ https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f1
 
 * [predict or predict_classes](https://blog.csdn.net/zds13257177985/article/details/80638384)
 
-# Classicial Model list
+# Classicial Models
 * AlexNet
 * VGG16
 * GoogLeNet / InceptionV1
 * Resnet50
 
-# Reference Model: DCNN
+# Reference Models
+** DCNN **
 - conv2d_1
 - batchnorm_1
 - conv2d_2
