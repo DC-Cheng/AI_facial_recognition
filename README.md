@@ -64,3 +64,6 @@ https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f1
 
 # Result
   
+  ![result-1](https://github.com/DC-Cheng/AI_facial_recognition/blob/master/fer-result-1.png?raw=true)
+  ![result-2](https://github.com/DC-Cheng/AI_facial_recognition/blob/master/fer-result-2.png?raw=true)
+  ![result-3](https://github.com/DC-Cheng/AI_facial_recognition/blob/master/fer-result-3.png?raw=true)
